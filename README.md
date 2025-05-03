@@ -18,9 +18,9 @@ I’m open to collaboration on projects involving:
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile Link]
-- Twitter: [Your Twitter Handle]
+- Email: arzv.info@gmail.com
+- LinkedIn: www.linkedin.com/in/alirezazv
+
 
 ## ⚡ Fun Fact
 I thrive on solving complex design and development challenges while ensuring the end-user experience is top-notch.
