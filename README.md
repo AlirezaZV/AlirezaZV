@@ -14,7 +14,7 @@ I'm constantly exploring new tools and technologies to stay at the forefront of 
 I’m open to collaboration on projects involving:
 - Frontend development with **React** and **Next.js**
 - UI/UX design for web and mobile applications
-- Backend integration with **Node.js** and **PostgreSQL**
+- Backend integration with **Node.js** and **PostgreSQL** or **MongoDB**
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
